@@ -1,0 +1,53 @@
+<html>
+<head><div class="topnav">
+		    <a href="変なアカデミーホームページ.html">変なアカデミーホームページ</a>
+		    <a href="">ランチメニュー</a>
+		    <a href="">課外活動</a>
+		    <a href=""></a>
+		</div> 
+    <style>
+       .topnav {
+       overflow: hidden;
+       background-color :#00cc00;
+   }
+   .topnav a {
+       float: left;
+       display: block;
+       color: #00cc00;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+   }
+   .topnav a:hover {
+       background-color: purple;
+       color: blue;
+   }
+   		
+</style>
+</head>
+</html>
+<html>
+<head><div class="topnav">
+		    <a href="index.html">back</a>
+		</div> 
+    <style>
+       .topnav {
+       overflow: hidden;
+       background-color :#00cc00;
+   }
+   .topnav a {
+       float: left;
+       display: block;
+       color: #00cc00;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+   }
+   .topnav a:hover {
+       background-color: purple;
+       color: blue;
+   }
+   		
+</style>
+</head>
+</html>
